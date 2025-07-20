@@ -49,7 +49,7 @@ a {
     text-decoration: none;
 }
 
-a[href] {
+a:link {
     color: var(--color-primary);
 }
 
