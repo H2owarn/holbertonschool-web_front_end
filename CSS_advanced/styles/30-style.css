@@ -268,7 +268,7 @@ text-decoration: none;
   overflow: hidden;
 }
 
-.card-work .card-image {
+.card-work .card-image img {
   height: 30rem;
   width: 100%;
   object-fit: cover;
@@ -283,8 +283,8 @@ text-decoration: none;
   z-index: 1;
 }
 
-.card-inner:hover {
-  background-color: rgba(0,0,0,0.7);
+.card-work:hover .card-inner {
+  background-color: rgba(0, 0, 0, 0.7);
 }
 
 .card-work .card-title {
