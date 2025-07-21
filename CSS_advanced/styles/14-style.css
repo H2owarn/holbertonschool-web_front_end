@@ -1,6 +1,12 @@
 /* Document
    the file learn how to use CSS  */
 
+
+/**
+ * 1. Correct the line height in all browsers.
+ * 2. Prevent adjustments of font size after orientation changes in iOS.
+ */
+
 html {
     scroll-behavior: smooth;
     font-size: 62.5%;
