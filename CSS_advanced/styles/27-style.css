@@ -306,7 +306,7 @@ text-decoration: none;
 }
 
 .section-hero {
-  background-size: 50% 200px;
+  background-size: 100% auto;
   width: 90rem;
   height: auto;
 }
