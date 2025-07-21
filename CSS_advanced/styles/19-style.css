@@ -273,7 +273,7 @@ ul.row {
   list-style: none;
 }
 
-ul.footer {
+.footer ul {
   text-align: right;
 }
 
@@ -294,6 +294,7 @@ ul.footer {
   font-size: var(--font-size-small);
   color: var(--text-color);
 }
+
 /**
  * 1. Correct the inheritance and scaling of font size in all browsers.
  * 2. Correct the odd `em` font sizing in all browsers.
