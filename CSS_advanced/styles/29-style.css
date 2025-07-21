@@ -353,7 +353,7 @@ text-decoration: none;
   margin: var(--nav-item-margin);
 }
 
-.nav .nav-item:hover ::before {
+.nav .nav-item:hover::before {
   background-color: var(--color-primary);
   width: 100%;
 }
@@ -363,7 +363,7 @@ text-decoration: none;
   padding: 0.5rem 1rem;
 }
 
-.nav .nav-link ::before {
+.nav .nav-link::before {
   content: '';
   position: absolute;
   top: 0;
