@@ -272,7 +272,7 @@ text-decoration: none;
   height: 30rem;
   width: 100%;
   object-fit: cover;
-  align-items: flex-end;
+  vertical-align: bottom;
 }
 
 .card-work .card-inner {
@@ -310,7 +310,7 @@ text-decoration: none;
   bottom: 0;
 }
 
-.card-work .card-title:hover {
+.card-work:hover .card-title {
   opacity: 1;
 }
 
